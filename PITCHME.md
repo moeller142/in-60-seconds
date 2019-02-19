@@ -7,7 +7,7 @@
 
 @snap[east span-50]
 
-@ul[squares]
+@ul
 - Agile Meetings
 - Sprint planning
 - Stand-Up
