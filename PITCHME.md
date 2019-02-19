@@ -1,6 +1,20 @@
 # The Meetings of Scrum
 ## Claudia Moeller
 ---
+@snap[west span-50]
+## Overview
+@snapend
+
+@snap[east span-50]
+- Agile Meetings
+- Sprint planning
+- Stand-Up
+- Sprint Review
+- Sprint Retrospective
+- Refinement
+@snapend
+
+---
 # Agenda
 - Agile Meetings
 - Sprint planning
@@ -20,7 +34,6 @@
 # Sprint Retrospective
 ---
 # Refinement 
----
 @title[Customize Slide Layout]
 
 @snap[west span-50]
