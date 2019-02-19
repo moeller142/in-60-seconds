@@ -1,12 +1,16 @@
 # The Meetings of Scrum
-Claudia Moeller
+## Claudia Moeller
 ---
 
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
-
+## Agenda
+- Sprint planning
+- Stand-Up
+- Sprint Review
+- Sprint Retrospective
 ---
+
+# Sprint planning
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
