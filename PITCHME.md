@@ -1,5 +1,5 @@
-# Let's Get Started
-
+# The Meetings of Scrum
+- Claudia Moeller
 ---
 
 ## Add Some Slide Candy
