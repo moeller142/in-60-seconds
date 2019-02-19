@@ -1,16 +1,26 @@
 # The Meetings of Scrum
 ## Claudia Moeller
 ---
-
-## Agenda
+# Agenda
+- Agile Meetings
 - Sprint planning
 - Stand-Up
 - Sprint Review
 - Sprint Retrospective
+- Refinement
 ---
-
+# Aglile Meetings
+---
 # Sprint planning
-
+---
+# Stand-Up
+---
+# Sprint Review
+---
+# Sprint Retrospective
+---
+# Refinement 
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
