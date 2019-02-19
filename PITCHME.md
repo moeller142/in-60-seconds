@@ -6,12 +6,16 @@
 @snapend
 
 @snap[east span-50]
-* Agile Meetings
-* Sprint planning
-* Stand-Up
-* Sprint Review
-* Sprint Retrospective
-* Refinement
+
+@ul[squares]
+- Agile Meetings
+- Sprint planning
+- Stand-Up
+- Sprint Review
+- Sprint Retrospective
+- Refinement
+@ulend
+
 @snapend
 
 ---
