@@ -1,5 +1,5 @@
 # The Meetings of Scrum
-- Claudia Moeller
+Claudia Moeller
 ---
 
 ## Add Some Slide Candy
