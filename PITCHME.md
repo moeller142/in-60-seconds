@@ -6,12 +6,12 @@
 @snapend
 
 @snap[east span-50]
-- Agile Meetings
-- Sprint planning
-- Stand-Up
-- Sprint Review
-- Sprint Retrospective
-- Refinement
+* Agile Meetings
+* Sprint planning
+* Stand-Up
+* Sprint Review
+* Sprint Retrospective
+* Refinement
 @snapend
 
 ---
@@ -34,6 +34,7 @@
 # Sprint Retrospective
 ---
 # Refinement 
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
